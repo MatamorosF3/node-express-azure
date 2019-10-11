@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/fjmc91/Test/_apis/build/status/MatamorosF3.node-express-azure?branchName=master)](https://dev.azure.com/fjmc91/Test/_build/latest?definitionId=6&branchName=master)
+
 # Node & Express Demo App for Azure DevOps
 
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
